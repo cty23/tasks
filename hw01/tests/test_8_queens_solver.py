@@ -1,5 +1,5 @@
 import unittest
-from 8_queens_solver import solve_n_queens
+from eight_queens_solver import solve_n_queens
 
 class TestNQueensSolver(unittest.TestCase):
     def test_n_4(self):
